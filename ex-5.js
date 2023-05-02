@@ -1,0 +1,1 @@
+//Ele só pode ser chamado uma vez e um tipo de método para criar e iniciar o objeto criado pela classe
